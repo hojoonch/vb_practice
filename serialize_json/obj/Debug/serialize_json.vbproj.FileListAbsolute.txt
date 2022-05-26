@@ -1,0 +1,17 @@
+D:\Work\VisualStudio2022\VB_practice\serialize_json\bin\Debug\serialize_json.exe.config
+D:\Work\VisualStudio2022\VB_practice\serialize_json\bin\Debug\serialize_json.exe
+D:\Work\VisualStudio2022\VB_practice\serialize_json\bin\Debug\serialize_json.pdb
+D:\Work\VisualStudio2022\VB_practice\serialize_json\bin\Debug\serialize_json.xml
+D:\Work\VisualStudio2022\VB_practice\serialize_json\bin\Debug\Newtonsoft.Json.dll
+D:\Work\VisualStudio2022\VB_practice\serialize_json\bin\Debug\System.Net.Json.dll
+D:\Work\VisualStudio2022\VB_practice\serialize_json\bin\Debug\Newtonsoft.Json.xml
+D:\Work\VisualStudio2022\VB_practice\serialize_json\obj\Debug\serialize_json.vbproj.AssemblyReference.cache
+D:\Work\VisualStudio2022\VB_practice\serialize_json\obj\Debug\serialize_json.vbproj.SuggestedBindingRedirects.cache
+D:\Work\VisualStudio2022\VB_practice\serialize_json\obj\Debug\serialize_json.Form1.resources
+D:\Work\VisualStudio2022\VB_practice\serialize_json\obj\Debug\serialize_json.Resources.resources
+D:\Work\VisualStudio2022\VB_practice\serialize_json\obj\Debug\serialize_json.vbproj.GenerateResource.cache
+D:\Work\VisualStudio2022\VB_practice\serialize_json\obj\Debug\serialize_json.vbproj.CoreCompileInputs.cache
+D:\Work\VisualStudio2022\VB_practice\serialize_json\obj\Debug\serialize_json.vbproj.CopyComplete
+D:\Work\VisualStudio2022\VB_practice\serialize_json\obj\Debug\serialize_json.exe
+D:\Work\VisualStudio2022\VB_practice\serialize_json\obj\Debug\serialize_json.xml
+D:\Work\VisualStudio2022\VB_practice\serialize_json\obj\Debug\serialize_json.pdb

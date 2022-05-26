@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "serilize", "serilize\serilize.vbproj", "{E335C1D9-3F96-41F2-96F8-8D3CED92B035}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "serialize_json", "serialize_json\serialize_json.vbproj", "{98F0872C-81AE-408E-A72F-67BFBD06D694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E335C1D9-3F96-41F2-96F8-8D3CED92B035}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E335C1D9-3F96-41F2-96F8-8D3CED92B035}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E335C1D9-3F96-41F2-96F8-8D3CED92B035}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E335C1D9-3F96-41F2-96F8-8D3CED92B035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98F0872C-81AE-408E-A72F-67BFBD06D694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F0872C-81AE-408E-A72F-67BFBD06D694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F0872C-81AE-408E-A72F-67BFBD06D694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F0872C-81AE-408E-A72F-67BFBD06D694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DAAE6F3-78B0-4331-80EE-096A4BED501C}
+	EndGlobalSection
+EndGlobal

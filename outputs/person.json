@@ -1,0 +1,18 @@
+{
+  "JobRole": "Teacher",
+  "Salary": 55000.0,
+  "nSB": 0,
+  "SBinfo": [
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      4
+    ]
+  ],
+  "FirstName": "Kevin",
+  "LastName": "Drumm",
+  "Gender": "Male"
+}

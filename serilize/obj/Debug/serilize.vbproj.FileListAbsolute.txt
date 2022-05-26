@@ -1,0 +1,16 @@
+D:\Work\VisualStudio2022\VB_practice\serilize\bin\Debug\serilize.exe.config
+D:\Work\VisualStudio2022\VB_practice\serilize\bin\Debug\serilize.exe
+D:\Work\VisualStudio2022\VB_practice\serilize\bin\Debug\serilize.pdb
+D:\Work\VisualStudio2022\VB_practice\serilize\bin\Debug\serilize.xml
+D:\Work\VisualStudio2022\VB_practice\serilize\obj\Debug\serilize.vbproj.AssemblyReference.cache
+D:\Work\VisualStudio2022\VB_practice\serilize\obj\Debug\serilize.vbproj.SuggestedBindingRedirects.cache
+D:\Work\VisualStudio2022\VB_practice\serilize\obj\Debug\serilize.Form1.resources
+D:\Work\VisualStudio2022\VB_practice\serilize\obj\Debug\serilize.Resources.resources
+D:\Work\VisualStudio2022\VB_practice\serilize\obj\Debug\serilize.vbproj.GenerateResource.cache
+D:\Work\VisualStudio2022\VB_practice\serilize\obj\Debug\serilize.vbproj.CoreCompileInputs.cache
+D:\Work\VisualStudio2022\VB_practice\serilize\obj\Debug\serilize.exe
+D:\Work\VisualStudio2022\VB_practice\serilize\obj\Debug\serilize.xml
+D:\Work\VisualStudio2022\VB_practice\serilize\obj\Debug\serilize.pdb
+D:\Work\VisualStudio2022\VB_practice\serilize\bin\Debug\Newtonsoft.Json.dll
+D:\Work\VisualStudio2022\VB_practice\serilize\bin\Debug\Newtonsoft.Json.xml
+D:\Work\VisualStudio2022\VB_practice\serilize\obj\Debug\serilize.vbproj.CopyComplete
